@@ -1,0 +1,12 @@
+body{background-image: url("img/tilted.png"); }
+section.game h1{text-align: center; font-weight: lighter; color:white;}
+section.game button.btn{margin: auto; display: block; font-weight: lighter;}
+section.game p{text-align: center; font-size: 10px; color:white;}
+section.game p.decompte{font-size: 30px; font-weight: lighter; background-color: black; opacity: 0.8; border-radius: 5px; width: 470px;}
+section.game li{font-size: 10px;}
+section.game img{width: 50px; height: 50px; margin: auto; display: block; } 
+section.game div.players{background-color: black; opacity:0.9; border-radius: 5px;}
+section.game h3{color:white; font-weight: lighter;}
+
+
+
